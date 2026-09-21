@@ -1,42 +1,135 @@
-# Hi there, I'm Mustapha opeyemi! 👋
+# 👋 Hi, I'm Mustapha Opeyemi
 
-![Banner Image](your_banner_image_url_
+### 💻 Full-Stack Developer | React • Node.js • Express • MongoDB
 
-## About Me 🚀
+I’m a Full-Stack Developer focused on building modern, responsive, and practical web applications.
 
-I'm a passionate **Website Developer** with experience in **technologies you're proficient in**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I enjoy turning ideas into functional products, learning through real-world projects, and continuously improving my development skills.
 
-- 🌱 Currently learning: **FrontEnd and Backend**
-- 🔭 Working on: **current projects or side-projects]**
-- 🌍 Languages: **HTML, javascrit and English**
-- 📫 How to reach me: **mustaphaopeyemi288@gmail.com**
-- ⚡ Fun fact: **love coding **
-- 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🛠️ Tech Stack
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+### Frontend
 
-## Featured Projects 💻
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
-### [Project 1 Title](project_1_link)
+### Backend & Database
 
-![Project 1 Screenshot](InnoTech)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+</p>
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+### Tools
 
-### [Project 2 Title](project_2_link)
-![Project 2 Screenshot](project_2_screenshot_url)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+---
 
-## Get in Touch 📬
+## 🚀 Featured Projects
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+### 🌉 SkillBridge
+
+A student-focused freelance marketplace designed to connect students with clients and opportunities.
+
+**Built with:**
+
+`React` `JavaScript` `CSS` `Vite`
+
+---
+
+### 🔧 Fixly Backend
+
+A backend REST API project featuring authentication and database functionality.
+
+**Built with:**
+
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+---
+
+### 🌦️ Weather App
+
+A weather application that retrieves and displays weather information through an external weather API.
+
+**Built with:**
+
+`JavaScript` `API Integration` `HTML` `CSS`
+
+---
+
+### 🛒 Shopping.Ng
+
+An e-commerce web project focused on creating a practical online shopping experience.
+
+**Built with:**
+
+`React` `JavaScript` `CSS`
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Opezy845&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opezy845&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Opezy845&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+* ⚛️ Advanced React
+* 🟢 Node.js & Express
+* 🍃 MongoDB & Mongoose
+* 🔐 Authentication & Authorization
+* 🔌 REST API Development
+* 🚀 Deployment & Production
+* 🧩 Full-Stack Application Architecture
+
+---
+
+## 💡 What I Build
+
+```text
+🌐 Web Applications
+💼 Freelance Marketplaces
+🛒 E-commerce Platforms
+🤖 AI-powered Features
+📱 Responsive Websites
+🔌 REST APIs
+```
+
+---
+
+## 📈 My Goal
+
+> Build useful products, become a stronger Full-Stack Developer, and keep learning through real-world projects.
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/Opezy845">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Keep Building. Keep Learning. Keep Improving.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Opezy845\&color=00883f\&style=flat-square)
